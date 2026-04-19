@@ -4,6 +4,15 @@ A full-stack application that allows users to track product prices from eBay, mo
 
 ---
 
+## 📸 Dashboard Preview
+
+Below is a snapshot of the application dashboard showing the product tracking interface and price monitoring system.
+
+<img width="1920" height="1200" alt="Screenshot (88)" src="https://github.com/user-attachments/assets/2f7599b3-0847-42d0-8400-3919ee4f475e" />
+
+
+---
+
 ## 🚀 Overview
 
 Prices on eBay fluctuate frequently due to demand, competition, and seller strategies. A price tracker helps users monitor these changes and make better buying or selling decisions. ([Visualping][1])
