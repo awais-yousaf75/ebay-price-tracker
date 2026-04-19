@@ -8,8 +8,7 @@ A full-stack application that allows users to track product prices from eBay, mo
 
 Below is a snapshot of the application dashboard showing the product tracking interface and price monitoring system.
 
-
-
+<img width="1920" height="1060" alt="Screenshot (88)" src="https://github.com/user-attachments/assets/d774771a-eac8-4d0b-ab1e-d91865ae82de" />
 
 ---
 
